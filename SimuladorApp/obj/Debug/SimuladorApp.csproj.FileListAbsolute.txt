@@ -1,0 +1,10 @@
+C:\Microsoft VS\Proyecto_0\SimuladorApp\obj\Debug\SimuladorApp.csproj.AssemblyReference.cache
+C:\Microsoft VS\Proyecto_0\SimuladorApp\obj\Debug\SimuladorApp.csproj.CoreCompileInputs.cache
+C:\Microsoft VS\Proyecto_0\SimuladorApp\bin\Debug\SimuladorApp.exe.config
+C:\Microsoft VS\Proyecto_0\SimuladorApp\bin\Debug\SimuladorApp.exe
+C:\Microsoft VS\Proyecto_0\SimuladorApp\bin\Debug\SimuladorApp.pdb
+C:\Microsoft VS\Proyecto_0\SimuladorApp\bin\Debug\Proyecto_0.dll
+C:\Microsoft VS\Proyecto_0\SimuladorApp\bin\Debug\Proyecto_0.pdb
+C:\Microsoft VS\Proyecto_0\SimuladorApp\obj\Debug\SimuladorApp.csproj.CopyComplete
+C:\Microsoft VS\Proyecto_0\SimuladorApp\obj\Debug\SimuladorApp.exe
+C:\Microsoft VS\Proyecto_0\SimuladorApp\obj\Debug\SimuladorApp.pdb

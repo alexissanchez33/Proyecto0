@@ -1,0 +1,6 @@
+C:\Microsoft VS\Proyecto_0\Proyecto_0\obj\Debug\SimuladorLib.csproj.AssemblyReference.cache
+C:\Microsoft VS\Proyecto_0\Proyecto_0\obj\Debug\SimuladorLib.csproj.CoreCompileInputs.cache
+C:\Microsoft VS\Proyecto_0\Proyecto_0\bin\Debug\Proyecto_0.dll
+C:\Microsoft VS\Proyecto_0\Proyecto_0\bin\Debug\Proyecto_0.pdb
+C:\Microsoft VS\Proyecto_0\Proyecto_0\obj\Debug\Proyecto_0.dll
+C:\Microsoft VS\Proyecto_0\Proyecto_0\obj\Debug\Proyecto_0.pdb
